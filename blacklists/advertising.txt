@@ -1,0 +1,4 @@
+# Ad domains to block
+ibsrv.net
+comet.ibsrv.net
+staticssl.ibsrv.net
